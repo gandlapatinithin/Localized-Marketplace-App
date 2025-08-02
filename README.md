@@ -1,6 +1,6 @@
 # 🛍️ Localized Marketplace App
 
-A full-stack web application that allows users to register, log in, create listings for items, browse nearby listings using a map interface, and interact in a secure and scalable environment. Built using **React**, **Node.js**, **Express**, **PostgreSQL**, and **Leaflet.js** for geolocation mapping.
+A full-stack web application that allows users to register, log in, create listings for items, browse nearby listings using a map interface, and interact in a secure and scalable environment. Built using ***React***, **Node.js**, **Express**, **PostgreSQL**, and **Leaflet.js** for geolocation mapping.
 ---
 
 ## 🚀 Features
